@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">J_ridesphere</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_driver_home_page">Driver_Home_page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_passanger_map">passanger_map_activity</string>
+</resources>

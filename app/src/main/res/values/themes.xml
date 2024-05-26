@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.J_ridesphere" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/black</item>
+<!--        <item name="android:windowContentTransitions">true</item>-->
+    </style>
+
+    <style name="Theme.J_ridesphere" parent="Base.Theme.J_ridesphere" />
+</resources>
